@@ -1,0 +1,337 @@
+{
+  "time": "2026-09-07T18:20:36.352Z",
+  "status": "display-fix-verified",
+  "checks": [
+    "All final rule/type checks pass, including580 prototype tests",
+    "Twelve three-size actual detail/Shift/toggle/save/reload cases pass without errors",
+    "Four extra landscape cases actually drag content and preserve save/return",
+    "Displayed effective coefficients and applicability resolve previous sword issue",
+    "Shared combat, merge, storage inputs unchanged; only codex display input changed",
+    "Web0.38.0 exact release and four real launcher checks match tested build",
+    "All screenshots retain exact hashes; frozen base manifest remains unchanged"
+  ],
+  "release": {
+    "version": "0.38.0",
+    "files": 458,
+    "fingerprint": "85eeb94c6c4b7ec34e1f260468c77dd2b8b7146177cbd4da4aa0b052d4621553"
+  },
+  "pictures": [
+    {
+      "path": "docs/screenshots/a1037-1100-sword-ordinary.png",
+      "sha256": "aa658ace83f4c86c74771e961b7f5e44f05bcbe054a8efc855827aebd4abc15a"
+    },
+    {
+      "path": "docs/screenshots/a1037-1100-sword-qualitative-0.png",
+      "sha256": "f83659977e60df85bfa09aa61a42487e40ca9c676c6a20e8fb9c48564f86dcca"
+    },
+    {
+      "path": "docs/screenshots/a1037-1100-sword-numbers-0.png",
+      "sha256": "90b0bb46de8911a1e38f22dee2c3a766fb86b981d3729145c17eaad757482284"
+    },
+    {
+      "path": "docs/screenshots/a1037-1100-sword-restored.png",
+      "sha256": "fa40d439ae4c9500dbcbb5d31b5154b6e4e59c0a7090c9dc5163d5b7f4b616a3"
+    },
+    {
+      "path": "docs/screenshots/a1037-1100-paper-ordinary.png",
+      "sha256": "a2c14e73ffd359fca718bebb60a4e75f540f3ea0a99c44c86cfc9c29bfa61d8a"
+    },
+    {
+      "path": "docs/screenshots/a1037-1100-paper-qualitative-0.png",
+      "sha256": "f1d5181e666495b4f08cd461647d913b1eafb9ebc6460250b66f5de6eeface6e"
+    },
+    {
+      "path": "docs/screenshots/a1037-1100-paper-numbers-0.png",
+      "sha256": "adf227006aa75345b2b8cf607550129ccedd872f7a4ea59ef18c7260471c8be7"
+    },
+    {
+      "path": "docs/screenshots/a1037-1100-paper-restored.png",
+      "sha256": "e192af944ffef599cfb03d16dd211e9357a59b984546d02e2ca9e5ac5855f224"
+    },
+    {
+      "path": "docs/screenshots/a1037-1100-orbit-ordinary.png",
+      "sha256": "aa658ace83f4c86c74771e961b7f5e44f05bcbe054a8efc855827aebd4abc15a"
+    },
+    {
+      "path": "docs/screenshots/a1037-1100-orbit-qualitative-0.png",
+      "sha256": "1fa191063ae763b5f6523d18f125966ae0a22d5487d30d7f7b00bbdf79e81d52"
+    },
+    {
+      "path": "docs/screenshots/a1037-1100-orbit-numbers-0.png",
+      "sha256": "a374bd818edec81c819a1b7774bddd91dfdab7027d53926c2f549b530920e5c2"
+    },
+    {
+      "path": "docs/screenshots/a1037-1100-orbit-restored.png",
+      "sha256": "ae343404b959c4c22d72ea98500ac8469a70868a0591ee7663d0c89444c82dab"
+    },
+    {
+      "path": "docs/screenshots/a1037-1100-multi-ordinary.png",
+      "sha256": "aa658ace83f4c86c74771e961b7f5e44f05bcbe054a8efc855827aebd4abc15a"
+    },
+    {
+      "path": "docs/screenshots/a1037-1100-multi-qualitative-0.png",
+      "sha256": "5435f85c7e6cd44841c1a99ce07497b87c09f878e77967d0042b84f20df9e477"
+    },
+    {
+      "path": "docs/screenshots/a1037-1100-multi-numbers-0.png",
+      "sha256": "fb059ff46bdd743dafea0c07dfe406721ca9d6fcda86c0108d781667a4f064a8"
+    },
+    {
+      "path": "docs/screenshots/a1037-1100-multi-qualitative-1.png",
+      "sha256": "eac535aca40aadccf4d492cc0bde67e3fa6aa1f99663ef27b7e9480046031390"
+    },
+    {
+      "path": "docs/screenshots/a1037-1100-multi-numbers-1.png",
+      "sha256": "585347a882faa4e5089e29741b3422aca71800ce1271df7662dc56b947ef258a"
+    },
+    {
+      "path": "docs/screenshots/a1037-1100-multi-restored.png",
+      "sha256": "e2e86eb52d02cc6a00d97edb1425c1e8515f4ce2be5e5c6a624c497a9e8e1b55"
+    },
+    {
+      "path": "docs/screenshots/a1037-375-sword-ordinary.png",
+      "sha256": "add8a63603a6aa98b5cd5ff2b6265168b985ab8e79bd7c094fc398dc0f0b1ed5"
+    },
+    {
+      "path": "docs/screenshots/a1037-375-sword-qualitative-0.png",
+      "sha256": "b299e5b99f4b21b8fd3bc8ba174f8556dfce3a04d4a5311daf51a6c05e3cee0f"
+    },
+    {
+      "path": "docs/screenshots/a1037-375-sword-numbers-0.png",
+      "sha256": "49f4a2ceb80a47a6cc1af10d856589baf72a71ebe69b22b46c4de25eafa339db"
+    },
+    {
+      "path": "docs/screenshots/a1037-375-sword-restored.png",
+      "sha256": "3c289bfe7c3f368ba82a32aafc1f719f9bb6a75408b5665a86f50c7e1eed6a0b"
+    },
+    {
+      "path": "docs/screenshots/a1037-375-paper-ordinary.png",
+      "sha256": "6e0cc28ef257373ca30220b621789b2fc83519eca6b05773e8e68261c06c3b45"
+    },
+    {
+      "path": "docs/screenshots/a1037-375-paper-qualitative-0.png",
+      "sha256": "86e6e406bd88971bae2ba4b13f6cc01d712ae8fc11386baadd5da40039777b76"
+    },
+    {
+      "path": "docs/screenshots/a1037-375-paper-numbers-0.png",
+      "sha256": "525728cd3cf8a696ebbdb80131ce66e3ec2d02a59bee172ab88b2b60a8d0cd5a"
+    },
+    {
+      "path": "docs/screenshots/a1037-375-paper-restored.png",
+      "sha256": "43c2be2e4367168a81bcebea118733586b04ab1e3c73e5333997c0fa06b4c95c"
+    },
+    {
+      "path": "docs/screenshots/a1037-375-orbit-ordinary.png",
+      "sha256": "add8a63603a6aa98b5cd5ff2b6265168b985ab8e79bd7c094fc398dc0f0b1ed5"
+    },
+    {
+      "path": "docs/screenshots/a1037-375-orbit-qualitative-0.png",
+      "sha256": "4a03d002564bbdddeccd20d4c25cc144b85badffa4a49ef83424598507140ae2"
+    },
+    {
+      "path": "docs/screenshots/a1037-375-orbit-numbers-0.png",
+      "sha256": "1e7a9d29ed154fb3175b2419e4cd8e82f60f7fa707326c8209ffd77b45634449"
+    },
+    {
+      "path": "docs/screenshots/a1037-375-orbit-restored.png",
+      "sha256": "db65e0f6b71643394ef14588644888b2324fc850e517caca0ad7f9ee1db631a6"
+    },
+    {
+      "path": "docs/screenshots/a1037-375-multi-ordinary.png",
+      "sha256": "add8a63603a6aa98b5cd5ff2b6265168b985ab8e79bd7c094fc398dc0f0b1ed5"
+    },
+    {
+      "path": "docs/screenshots/a1037-375-multi-qualitative-0.png",
+      "sha256": "89f8b03a06d6ed6e9025a575274b2c2156937fff61ab22453b48bfd59b65ba41"
+    },
+    {
+      "path": "docs/screenshots/a1037-375-multi-numbers-0.png",
+      "sha256": "40ac306cf92fa65597ea8ca7607477debf26481843694594982ffe8b7a52c771"
+    },
+    {
+      "path": "docs/screenshots/a1037-375-multi-qualitative-1.png",
+      "sha256": "e9ee696584887734121bb5eefa3e55c1dc362f7a1f5aeabe7dd58570bd9d6b2a"
+    },
+    {
+      "path": "docs/screenshots/a1037-375-multi-numbers-1.png",
+      "sha256": "3faa9a83f58c0056f9d4b41076eeb0546926c9705032851e9e6736dd7580aa2f"
+    },
+    {
+      "path": "docs/screenshots/a1037-375-multi-restored.png",
+      "sha256": "3c0b88e26cb986e6c913c6e7f745bb8066944871b7d833554e8f7462e7b8394a"
+    },
+    {
+      "path": "docs/screenshots/a1037-812-sword-ordinary.png",
+      "sha256": "d2f38d8fd8391885b10b6fb6208e34c540585a65c98700b6699181753b78ab23"
+    },
+    {
+      "path": "docs/screenshots/a1037-812-sword-qualitative-0.png",
+      "sha256": "2111e6943dd2c88c2220d70abf597ef37972d53050294b85f165df1c970fa1ba"
+    },
+    {
+      "path": "docs/screenshots/a1037-812-sword-numbers-0.png",
+      "sha256": "d23e5fe54fc0517aed67ade9e56550fe34cc024d90ffa0e8130cd97b9851a261"
+    },
+    {
+      "path": "docs/screenshots/a1037-812-sword-restored.png",
+      "sha256": "5559efb797a03db6e6e5064b86e4ba8de0d5e7948c81050e504d98c01484e30a"
+    },
+    {
+      "path": "docs/screenshots/a1037-812-paper-ordinary.png",
+      "sha256": "4e758f7420d08cebb70ccf02f11cb9c3d1845bbee8629f55c9a2490415e37045"
+    },
+    {
+      "path": "docs/screenshots/a1037-812-paper-qualitative-0.png",
+      "sha256": "05a0d75133abe4daa5a0a4aaf51c5141fe3163faf8b163fce656b5239081bbe9"
+    },
+    {
+      "path": "docs/screenshots/a1037-812-paper-numbers-0.png",
+      "sha256": "c169697eae3422fe7380dd7c296fdf28e6cb45c52afad03a8e69ccdc46185963"
+    },
+    {
+      "path": "docs/screenshots/a1037-812-paper-restored.png",
+      "sha256": "f3645b8f4d725c785bd1e65daf8c7acd03bacb67433f42491841c06379340396"
+    },
+    {
+      "path": "docs/screenshots/a1037-812-orbit-ordinary.png",
+      "sha256": "d2f38d8fd8391885b10b6fb6208e34c540585a65c98700b6699181753b78ab23"
+    },
+    {
+      "path": "docs/screenshots/a1037-812-orbit-qualitative-0.png",
+      "sha256": "c630b8a1836c8e0d6b7300761815dfe671c4846883e1a54e9331255da81ed599"
+    },
+    {
+      "path": "docs/screenshots/a1037-812-orbit-numbers-0.png",
+      "sha256": "e4e559e944e955563fd0916da5b34016b1e5c50493506ee80f0a777124bbbc42"
+    },
+    {
+      "path": "docs/screenshots/a1037-812-orbit-restored.png",
+      "sha256": "d7f5c74ec6649dd909b7d0262bb9d471d04939e2bfd0b754c6d78d22c3a5558e"
+    },
+    {
+      "path": "docs/screenshots/a1037-812-multi-ordinary.png",
+      "sha256": "d2f38d8fd8391885b10b6fb6208e34c540585a65c98700b6699181753b78ab23"
+    },
+    {
+      "path": "docs/screenshots/a1037-812-multi-qualitative-0.png",
+      "sha256": "2111e6943dd2c88c2220d70abf597ef37972d53050294b85f165df1c970fa1ba"
+    },
+    {
+      "path": "docs/screenshots/a1037-812-multi-numbers-0.png",
+      "sha256": "d23e5fe54fc0517aed67ade9e56550fe34cc024d90ffa0e8130cd97b9851a261"
+    },
+    {
+      "path": "docs/screenshots/a1037-812-multi-qualitative-1.png",
+      "sha256": "aed3d7499e43cdb64f7a8b0c3f632afa942fa8b0fcdf13e38f6065df8f4012c9"
+    },
+    {
+      "path": "docs/screenshots/a1037-812-multi-numbers-1.png",
+      "sha256": "118e28c186ca12be65ed2ca57cc2ea9ae84a20cf123a064bbc67e65bb4d1085a"
+    },
+    {
+      "path": "docs/screenshots/a1037-812-multi-restored.png",
+      "sha256": "8e6a3dcd7bb614d7d95a2861c944b7137efb0abdf4b14b4b34b4b1efad10f425"
+    },
+    {
+      "path": "docs/screenshots/a1037scroll2-812-sword-ordinary.png",
+      "sha256": "d2f38d8fd8391885b10b6fb6208e34c540585a65c98700b6699181753b78ab23"
+    },
+    {
+      "path": "docs/screenshots/a1037scroll2-812-sword-qualitative-0.png",
+      "sha256": "2111e6943dd2c88c2220d70abf597ef37972d53050294b85f165df1c970fa1ba"
+    },
+    {
+      "path": "docs/screenshots/a1037scroll2-812-sword-numbers-0.png",
+      "sha256": "d23e5fe54fc0517aed67ade9e56550fe34cc024d90ffa0e8130cd97b9851a261"
+    },
+    {
+      "path": "docs/screenshots/a1037scroll2-812-sword-numbers-scrolled-0.png",
+      "sha256": "3a8106dd77f799af1599fa3e2ac9537bf0476ab8c8b6571f258f19fca74d798e"
+    },
+    {
+      "path": "docs/screenshots/a1037scroll2-812-sword-restored.png",
+      "sha256": "5559efb797a03db6e6e5064b86e4ba8de0d5e7948c81050e504d98c01484e30a"
+    },
+    {
+      "path": "docs/screenshots/a1037scroll2-812-paper-ordinary.png",
+      "sha256": "4e758f7420d08cebb70ccf02f11cb9c3d1845bbee8629f55c9a2490415e37045"
+    },
+    {
+      "path": "docs/screenshots/a1037scroll2-812-paper-qualitative-0.png",
+      "sha256": "05a0d75133abe4daa5a0a4aaf51c5141fe3163faf8b163fce656b5239081bbe9"
+    },
+    {
+      "path": "docs/screenshots/a1037scroll2-812-paper-numbers-0.png",
+      "sha256": "c169697eae3422fe7380dd7c296fdf28e6cb45c52afad03a8e69ccdc46185963"
+    },
+    {
+      "path": "docs/screenshots/a1037scroll2-812-paper-numbers-scrolled-0.png",
+      "sha256": "6e389e4353b7be9c423e9194d1c5f2e143de521927149205e54d98999ff4ba71"
+    },
+    {
+      "path": "docs/screenshots/a1037scroll2-812-paper-restored.png",
+      "sha256": "f3645b8f4d725c785bd1e65daf8c7acd03bacb67433f42491841c06379340396"
+    },
+    {
+      "path": "docs/screenshots/a1037scroll2-812-orbit-ordinary.png",
+      "sha256": "d2f38d8fd8391885b10b6fb6208e34c540585a65c98700b6699181753b78ab23"
+    },
+    {
+      "path": "docs/screenshots/a1037scroll2-812-orbit-qualitative-0.png",
+      "sha256": "c630b8a1836c8e0d6b7300761815dfe671c4846883e1a54e9331255da81ed599"
+    },
+    {
+      "path": "docs/screenshots/a1037scroll2-812-orbit-numbers-0.png",
+      "sha256": "e4e559e944e955563fd0916da5b34016b1e5c50493506ee80f0a777124bbbc42"
+    },
+    {
+      "path": "docs/screenshots/a1037scroll2-812-orbit-numbers-scrolled-0.png",
+      "sha256": "86c296311956c8dacd3dcc127d1c48a9a7c5a10bc16216f1487f034d75461ec3"
+    },
+    {
+      "path": "docs/screenshots/a1037scroll2-812-orbit-restored.png",
+      "sha256": "d7f5c74ec6649dd909b7d0262bb9d471d04939e2bfd0b754c6d78d22c3a5558e"
+    },
+    {
+      "path": "docs/screenshots/a1037scroll2-812-multi-ordinary.png",
+      "sha256": "d2f38d8fd8391885b10b6fb6208e34c540585a65c98700b6699181753b78ab23"
+    },
+    {
+      "path": "docs/screenshots/a1037scroll2-812-multi-qualitative-0.png",
+      "sha256": "2111e6943dd2c88c2220d70abf597ef37972d53050294b85f165df1c970fa1ba"
+    },
+    {
+      "path": "docs/screenshots/a1037scroll2-812-multi-numbers-0.png",
+      "sha256": "d23e5fe54fc0517aed67ade9e56550fe34cc024d90ffa0e8130cd97b9851a261"
+    },
+    {
+      "path": "docs/screenshots/a1037scroll2-812-multi-numbers-scrolled-0.png",
+      "sha256": "3a8106dd77f799af1599fa3e2ac9537bf0476ab8c8b6571f258f19fca74d798e"
+    },
+    {
+      "path": "docs/screenshots/a1037scroll2-812-multi-qualitative-1.png",
+      "sha256": "aed3d7499e43cdb64f7a8b0c3f632afa942fa8b0fcdf13e38f6065df8f4012c9"
+    },
+    {
+      "path": "docs/screenshots/a1037scroll2-812-multi-numbers-1.png",
+      "sha256": "118e28c186ca12be65ed2ca57cc2ea9ae84a20cf123a064bbc67e65bb4d1085a"
+    },
+    {
+      "path": "docs/screenshots/a1037scroll2-812-multi-numbers-scrolled-1.png",
+      "sha256": "3a8106dd77f799af1599fa3e2ac9537bf0476ab8c8b6571f258f19fca74d798e"
+    },
+    {
+      "path": "docs/screenshots/a1037scroll2-812-multi-restored.png",
+      "sha256": "8e6a3dcd7bb614d7d95a2861c944b7137efb0abdf4b14b4b34b4b1efad10f425"
+    }
+  ],
+  "resolvedIssue": "A10362 fusion-detail-effective-values",
+  "boundaries": [
+    "Controlled material grants and paused fixtures, not natural progression or win rate.",
+    "Browser phone viewports, not physical touch, native APK, Dynamic Type or screen-reader acceptance.",
+    "MAI endpoint absent; ordinary Playwright Chrome only. UX search did not directly match; used scoped existing layout and generic checklist.",
+    "Initial two catalogue-lookup test failures and first ENOSPC build failure retained. Corrected lookup, no balance changes; final build exit36 and all final tests pass.",
+    "Old frozen versions/user storage untouched. Full PRD, remaining natural builds/maps and physical devices incomplete."
+  ],
+  "next": "Exercise devourer health/armor conversion and natural relic acquisition, then improve any actual build feedback gap; do not repeat sword/paper forest or identical save buttons."
+}

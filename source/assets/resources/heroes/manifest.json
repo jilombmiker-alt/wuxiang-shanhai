@@ -1,0 +1,211 @@
+{
+  "schemaVersion": 1,
+  "width": 128,
+  "height": 128,
+  "origin": {
+    "x": 64,
+    "y": 64
+  },
+  "foot": {
+    "x": 64,
+    "y": 92
+  },
+  "facing": "right",
+  "stationaryFrame": 1,
+  "boundary": "Exact current Canvas renderer output, transparent PNG. Not a combat port. Do not use a sprite square as a collision box.",
+  "heroes": [
+    {
+      "id": "sword",
+      "name": "断因剑胎",
+      "role": "剑气爆发 / 暴击",
+      "startingWeapon": "whip"
+    },
+    {
+      "id": "paper",
+      "name": "纸灵渡客",
+      "role": "符箓追踪 / 高频施术",
+      "startingWeapon": "magic_wand"
+    },
+    {
+      "id": "devourer",
+      "name": "食煞童子",
+      "role": "生命转伤 / 护甲反噬",
+      "startingWeapon": "garlic"
+    },
+    {
+      "id": "star",
+      "name": "星槎遗民",
+      "role": "星械贯穿 / 高速游走",
+      "startingWeapon": "retro_blaster"
+    }
+  ],
+  "files": [
+    {
+      "filename": "sword-walk-0.png",
+      "sha256": "cd87644b3c77a8b9e76895f93a11e1c51fc3a6df89e8e52ce82b92255e66d93a",
+      "opaquePixels": 1864
+    },
+    {
+      "filename": "sword-walk-1.png",
+      "sha256": "8851ac437e38797164e461c2ec8b2a1d4ef17093ab3e1667f81bcda796c15107",
+      "opaquePixels": 1861
+    },
+    {
+      "filename": "sword-walk-2.png",
+      "sha256": "5b7ad0a2d24245d3fdd10ce1c2c27e4297b21d5110fd122e2806d55e4d06a5df",
+      "opaquePixels": 1858
+    },
+    {
+      "filename": "sword-walk-3.png",
+      "sha256": "281758abd003215e6baa6adf13314724b99f087fa51c0f3cccc7c5e1cae8f2df",
+      "opaquePixels": 1814
+    },
+    {
+      "filename": "sword-action-0.png",
+      "sha256": "5c55668a064c7ddd3070846277cf90ad058034b80ace70929f9b26db3cfb7d75",
+      "opaquePixels": 2105
+    },
+    {
+      "filename": "sword-action-1.png",
+      "sha256": "970cd39f31ee59a18557ec7a0edf95318ad8e733d54f400829937628b495117e",
+      "opaquePixels": 1912
+    },
+    {
+      "filename": "sword-action-2.png",
+      "sha256": "0087fe3a2c05711d9cfdc9bb8c872fd76f06c7d69851a0d2e49263ac9f75fbfc",
+      "opaquePixels": 1889
+    },
+    {
+      "filename": "sword-action-3.png",
+      "sha256": "cc044ea832f08069138e28f674a513af52acf2baa03eae96d7cd444d0f8c01c4",
+      "opaquePixels": 1780
+    },
+    {
+      "filename": "paper-walk-0.png",
+      "sha256": "afbf0f7bdbbcb98fd413f1f4425e8588f7fce05cca50d0651fde5ae8f2006450",
+      "opaquePixels": 2072
+    },
+    {
+      "filename": "paper-walk-1.png",
+      "sha256": "7e6b295482ff05677d1a7a9cfc369ed7b9caafa175fcbd758ffeb2821cc191ce",
+      "opaquePixels": 2087
+    },
+    {
+      "filename": "paper-walk-2.png",
+      "sha256": "2094c23ffdc6b410f0889a24ee57ae4300201809784f7a6898ebd448b9a5bd68",
+      "opaquePixels": 2038
+    },
+    {
+      "filename": "paper-walk-3.png",
+      "sha256": "27a1de9bdac594ca650d751e3a7319bcae28bb769cc9daad592bc6bb4afa35f2",
+      "opaquePixels": 2053
+    },
+    {
+      "filename": "paper-action-0.png",
+      "sha256": "242c17a681419e6c5bbd2f8e3f8c8e4446fee8bb87db9e652aba6f87571a89e9",
+      "opaquePixels": 2465
+    },
+    {
+      "filename": "paper-action-1.png",
+      "sha256": "a63ce83353456b87562c2bb90e55175a78c9b022a3fc0229b234109be02d2114",
+      "opaquePixels": 2015
+    },
+    {
+      "filename": "paper-action-2.png",
+      "sha256": "90ad0d90f1857e8bc5340e9d1eefa9316b1b7ef3681d1073c2e726278c013213",
+      "opaquePixels": 1910
+    },
+    {
+      "filename": "paper-action-3.png",
+      "sha256": "8b0cb27dac09129fea442e4c2e2ba54fda7f6c080792448cd1c64dea52243030",
+      "opaquePixels": 1956
+    },
+    {
+      "filename": "devourer-walk-0.png",
+      "sha256": "022b1c63d561282a4f535213aa9e1536c6054cb0620426a00dde01da61368802",
+      "opaquePixels": 2406
+    },
+    {
+      "filename": "devourer-walk-1.png",
+      "sha256": "8895493d92c3b99b1b6fab125ddc1a1d09c2c4a71ca2f01701dee3732038b18e",
+      "opaquePixels": 2286
+    },
+    {
+      "filename": "devourer-walk-2.png",
+      "sha256": "3a1e5e28e763989a9387e9ce86ee1d592402064ae6f6f904d42a6724fa103b17",
+      "opaquePixels": 2278
+    },
+    {
+      "filename": "devourer-walk-3.png",
+      "sha256": "8e7e5d99ec380dab4a17f08e82e8f40761d61ef1348b890198c850cfb730b08a",
+      "opaquePixels": 2192
+    },
+    {
+      "filename": "devourer-action-0.png",
+      "sha256": "292fadc1608d049f8a649bb6b3cb566d1f592a072475db981083b98f46073db0",
+      "opaquePixels": 3041
+    },
+    {
+      "filename": "devourer-action-1.png",
+      "sha256": "03ca5eafb3de89613fbdba225da0e6d2a9bbe413b65d1053e321d524a2c786f5",
+      "opaquePixels": 2710
+    },
+    {
+      "filename": "devourer-action-2.png",
+      "sha256": "2bb850044ec7a0017ff72974b1ab48ae595f1bcd8f456ac5c1e332d0831f4d4b",
+      "opaquePixels": 2378
+    },
+    {
+      "filename": "devourer-action-3.png",
+      "sha256": "4775bf9627e57aba02fd2900b07084cfc9e747aad7985259008f891789ef3b16",
+      "opaquePixels": 2209
+    },
+    {
+      "filename": "star-walk-0.png",
+      "sha256": "059934aa7e2cf8f93dcfe1523ca6f1b9474c29039539c543667506940b080785",
+      "opaquePixels": 2241
+    },
+    {
+      "filename": "star-walk-1.png",
+      "sha256": "fc3ac71cf611049a76a82b82a1683c9196ce63a82f14078abe3085174a009460",
+      "opaquePixels": 2185
+    },
+    {
+      "filename": "star-walk-2.png",
+      "sha256": "22271ec9504ee9416b75db1805b303fc439deef478a2af0b955257847bed8f51",
+      "opaquePixels": 2185
+    },
+    {
+      "filename": "star-walk-3.png",
+      "sha256": "abeb64619e79d5c6c1fd736c9d518c737598904005ae353ec5b282bf8707b337",
+      "opaquePixels": 2146
+    },
+    {
+      "filename": "star-action-0.png",
+      "sha256": "697d47249fa69af267ff97e612af5347c7a1deb63be13d81daa692397bf29611",
+      "opaquePixels": 2396
+    },
+    {
+      "filename": "star-action-1.png",
+      "sha256": "ac4138404fdfed959461d8b2bc748426796d4353b0b6727eeb464faa61eccaff",
+      "opaquePixels": 2401
+    },
+    {
+      "filename": "star-action-2.png",
+      "sha256": "2aefabfcaf0591f1734b0a6d239917e0f8dcdc1bff8c8b55e027a5cd94800f8d",
+      "opaquePixels": 2179
+    },
+    {
+      "filename": "star-action-3.png",
+      "sha256": "6f4d4e49677d4785ca51437fe9ab52938b453ff782e899bf1ca602f295e188ef",
+      "opaquePixels": 2096
+    }
+  ],
+  "sourceSha256": {
+    "src/hero-animation.js": "a76a1c20ba1da6564bcf97bdc4b1c4b389b9f9d569c6b954cae2ba3a8ba33c39",
+    "src/enemy-atlas.js": "f71d1ac8ee61b178276ddff1ec7545ac0bac36277b4b1777212fa5eb21057c02",
+    "src/heroes.js": "2677e748c25f41fa133933b445cf7d91cbe8263297f374521f303012c2925318",
+    "assets/heroes/launch-walk-sprites-v2.png": "f1fca5c3ac4cc98eac9824eb5b2bebcbe9543868b50711060746a709a5186e0b",
+    "assets/heroes/launch-action-sprites-v1.png": "d6e02c6c270e81e83c8d7923f2727582ca2805671ef8bdd8ccc8c0bfff9b3206"
+  }
+}

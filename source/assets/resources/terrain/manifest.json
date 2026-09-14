@@ -1,0 +1,36 @@
+{
+  "width": 512,
+  "height": 512,
+  "source": "Exact existing filtered and mirrored ground/road patterns; no new image generation",
+  "files": [
+    {
+      "filename": "forest-0.png",
+      "sha256": "60747fc1db44e390ac33d2334fa455f3fab85813aa4a9bd57d5fb03d4fff42c2"
+    },
+    {
+      "filename": "forest-1.png",
+      "sha256": "d564e99a3b90609b982d75e913873099a6811bee561dbab1e3d531f0827712f9"
+    },
+    {
+      "filename": "crypt-0.png",
+      "sha256": "a6d0ed080944ffadaefb26e959fc6585a1ec8df653f70299006541229fe45bd7"
+    },
+    {
+      "filename": "crypt-1.png",
+      "sha256": "9e99791c1fc5d0362777a24d8603095c3de1d4fff47e0f855c63c706abf26689"
+    },
+    {
+      "filename": "tundra-0.png",
+      "sha256": "b0279d302a125ebcd424b4216b112f5c8902ada0c61ffd12102a4f493ed1e631"
+    },
+    {
+      "filename": "tundra-1.png",
+      "sha256": "b067e22e60da5b738c79bc351e51a639f225f4cd1ae3e11400a10a2867aac9bb"
+    }
+  ],
+  "sourceHashes": {
+    "src/terrain-art.js": "d0b367daf85ac00eac20d29ceebff5c81d966824be9f662e10fd0935b9a1e3ff",
+    "src/building-art.js": "ce665b424f76514aa8980a33acb4c1a6310f1e839290827266e1ca838c5afab1",
+    "assets/terrain/theme-ground-atlas-v1.png": "e382541a9bd06541732a1aecf2e17f24e3a9a991811d3cb2972180e0db3548ec"
+  }
+}

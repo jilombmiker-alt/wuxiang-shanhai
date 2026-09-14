@@ -1,0 +1,20 @@
+{
+  "platform": "web-desktop",
+  "debug": true,
+  "startScene": "356495b2-a2aa-43e5-814f-ecbe38583baf",
+  "scenes": [
+    {
+      "url": "db://assets/Boot.scene",
+      "uuid": "356495b2-a2aa-43e5-814f-ecbe38583baf"
+    }
+  ],
+  "outputName": "web-desktop",
+  "name": "wuxiang-shanhai-cocos",
+  "buildPath": "project://build",
+  "packages": {
+    "web-desktop": {
+      "resolution": { "designWidth": 960, "designHeight": 640 },
+      "useWebGPU": false
+    }
+  }
+}

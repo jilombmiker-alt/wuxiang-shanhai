@@ -1,0 +1,188 @@
+{
+  "source": "Existing 8 ritual identities x 4 poses + 3 themes x 4 buildings",
+  "files": [
+    {
+      "filename": "ritual-reaper-0.png",
+      "sha256": "a59bf31ebbc7d15948a028cc331b38ab3f2174ce485841bc29c6f1e24563ea3c"
+    },
+    {
+      "filename": "ritual-reaper-1.png",
+      "sha256": "030e20a60d410527d8c71aae0531465492da753df8aac9d4827e928e9c8e99a8"
+    },
+    {
+      "filename": "ritual-reaper-2.png",
+      "sha256": "ca9c50e000c07bbb9f505bc1101f5a44b1a25af8c8b8d48039cd2becfa472c14"
+    },
+    {
+      "filename": "ritual-reaper-3.png",
+      "sha256": "a0f7cfdb972c28718b53fa6460a125c59c99b5650a631e2d4a8cd3cf0887ccc0"
+    },
+    {
+      "filename": "ritual-necromancer-0.png",
+      "sha256": "0512b92420cb0526b173947c23fd5f67b1acc0c77f0cf237aa35384047649d08"
+    },
+    {
+      "filename": "ritual-necromancer-1.png",
+      "sha256": "610ccfd8f2a7cc2a8ff2b8e5ca0a2ae305edeea589e24bf2c94fd159e24e364f"
+    },
+    {
+      "filename": "ritual-necromancer-2.png",
+      "sha256": "167c0c83fb7c7c9bf9eaad5a9a49a57402498a1cd6a07b1240e5476ae1ea079c"
+    },
+    {
+      "filename": "ritual-necromancer-3.png",
+      "sha256": "a8ccff6f791143a242c92b70ce8d7fa77600a64f727b6ef4811259852b77b455"
+    },
+    {
+      "filename": "ritual-ice_queen-0.png",
+      "sha256": "6d87e43475be05b389c73af27984621c8e1c7b1c19358c1a5824a3354b41e7e7"
+    },
+    {
+      "filename": "ritual-ice_queen-1.png",
+      "sha256": "8dbfd60474e032aaf475224518b99d65e942beb45dd35042edac52542b620546"
+    },
+    {
+      "filename": "ritual-ice_queen-2.png",
+      "sha256": "2eb1c7a91b461b4cafbadb0a0fa52adb70ba1f4d392b30ada2841cafe5521ae9"
+    },
+    {
+      "filename": "ritual-ice_queen-3.png",
+      "sha256": "f3c17b852bfd75594a76e3c60290034865f6f8698ca77943add182b36925158c"
+    },
+    {
+      "filename": "ritual-void_lord-0.png",
+      "sha256": "69c85e268a66e97813dc6767c2e1ca108b028ef4ce9bd15d4f8b9675d1aeb549"
+    },
+    {
+      "filename": "ritual-void_lord-1.png",
+      "sha256": "c7cf87268901b45c9b8453ee6d69274b5b28f19d38e8206474f0435cd9d4cd67"
+    },
+    {
+      "filename": "ritual-void_lord-2.png",
+      "sha256": "dca6a71f470b98d09dded5b00ba6553e03ab5ea967fd500c8807c91a8cd86ba0"
+    },
+    {
+      "filename": "ritual-void_lord-3.png",
+      "sha256": "4ab81e9fc861594bdc407b0dec6c5329844fe63d9bb2c4cac698ad437d2ac507"
+    },
+    {
+      "filename": "ritual-chrono_lich-0.png",
+      "sha256": "399e88a6964e9bfb1b9d6cc0bd2331beb0321f50f792505a18eaa22b66c1c008"
+    },
+    {
+      "filename": "ritual-chrono_lich-1.png",
+      "sha256": "88c98edf5fcc753fd6d5f13ee1237fd5aa57d4d00557f00711e110fbd382d0a2"
+    },
+    {
+      "filename": "ritual-chrono_lich-2.png",
+      "sha256": "c0b503fbaa86ce20f67d8853d25ec1187d3d8d72c26403953b1f9601cc758a81"
+    },
+    {
+      "filename": "ritual-chrono_lich-3.png",
+      "sha256": "67e387913b98df4c790ec30d35b872f891c2022b56626afbc73196eee9970e7e"
+    },
+    {
+      "filename": "ritual-bramble_seer-0.png",
+      "sha256": "4566d8f4725e94001a14cde67c1ed2c13b36b8453aa4d8e8cb9b39c6e53e5e49"
+    },
+    {
+      "filename": "ritual-bramble_seer-1.png",
+      "sha256": "af8bff257cfa0d05b9643952374c5b93f909e2619c15edd17f022ddb89651ae7"
+    },
+    {
+      "filename": "ritual-bramble_seer-2.png",
+      "sha256": "f35a4dddd538be0483fbab5241b53a734c310b26dcc6a343a3d0dd06e0ad1bc2"
+    },
+    {
+      "filename": "ritual-bramble_seer-3.png",
+      "sha256": "0d788466290b57cdc4a163717bc67414064ef4d330a14b90ab0ff827df5fe814"
+    },
+    {
+      "filename": "ritual-thread_chanter-0.png",
+      "sha256": "3b0d0eb2304230839eea0205d469ea047280df0d05c820ce6d3125fe8b0f3748"
+    },
+    {
+      "filename": "ritual-thread_chanter-1.png",
+      "sha256": "5b209bb2f73e6dd816905f08745e5b38c5732ccd7c21d9fc7f0099080afa0357"
+    },
+    {
+      "filename": "ritual-thread_chanter-2.png",
+      "sha256": "ceea008c552ca5037c9b7e2dff7851e2acd8b86ca096effccf43bf7afac79dca"
+    },
+    {
+      "filename": "ritual-thread_chanter-3.png",
+      "sha256": "68cfb5598aca728b42b4878d9a4965ca8c6f8e5929a85fa65be39010a83e067b"
+    },
+    {
+      "filename": "ritual-frost_eye-0.png",
+      "sha256": "e6aac3b7dd74634472ff35ca914aa80e197afa32190dcd0153fbc24425de66c0"
+    },
+    {
+      "filename": "ritual-frost_eye-1.png",
+      "sha256": "1fd82b2fa28c74411d4b5c84892ad074ca1db578fa3e2af72b5746a9f1cfc22d"
+    },
+    {
+      "filename": "ritual-frost_eye-2.png",
+      "sha256": "d75c18c8786278ff8a6e8cbd021549597c48cea6e07dab97f795e6c8dc46a960"
+    },
+    {
+      "filename": "ritual-frost_eye-3.png",
+      "sha256": "23e347b73620a5830b42f69ef13ca5655ab3b842b8eef9a032910e10eee3d1d7"
+    },
+    {
+      "filename": "building-forest-shop.png",
+      "sha256": "37702c9184e3f02a4be69c60c1906dec3707f477aa35b00d1409e1b1bbf44893"
+    },
+    {
+      "filename": "building-forest-relic.png",
+      "sha256": "ae6e77c9f199dff39a42d91448b8b779e79260f7158031e829eaec359101eae5"
+    },
+    {
+      "filename": "building-forest-heal.png",
+      "sha256": "2ce61c2b06a7d0a349f6c1674349e0ff40f7d360d46b87fe70a05a651dd29a49"
+    },
+    {
+      "filename": "building-forest-gate.png",
+      "sha256": "23ef57787376f20fef02f1969276b5fdd9de43967bc567dd7ba33adec742194a"
+    },
+    {
+      "filename": "building-crypt-shop.png",
+      "sha256": "aabd54e9921db0f78edc0dab5a27bcb38b9c6b48c700d9a5328df749c9057c63"
+    },
+    {
+      "filename": "building-crypt-relic.png",
+      "sha256": "6ce88ae8e9885dfd3921e05aa013396e655a3fc441738fa906eab70c6eef0724"
+    },
+    {
+      "filename": "building-crypt-heal.png",
+      "sha256": "583e81b562851e5a6713548359c2b93f0ee93a4fea1a8df3b4768584a965112a"
+    },
+    {
+      "filename": "building-crypt-gate.png",
+      "sha256": "43f78081d437e47d9d546b2e97d36e7e916a6b8d1b50cf589a8bea722deff751"
+    },
+    {
+      "filename": "building-tundra-shop.png",
+      "sha256": "4827a47e993e4ebe490261b2d7a85791a1f77a73f3423aa68505ecf6ce7f080a"
+    },
+    {
+      "filename": "building-tundra-relic.png",
+      "sha256": "c8b2bc376d5a755d519d44fbf565a7a4e1ab9690b0ee4dfea5a0235bb8ceb5ef"
+    },
+    {
+      "filename": "building-tundra-heal.png",
+      "sha256": "d02fb1ca7247e3da6db963deab2f4b3a8c414396bf5b426e1ca72c1cdf2771d8"
+    },
+    {
+      "filename": "building-tundra-gate.png",
+      "sha256": "a0e4956b8a9bd497180b9394913c5f093da27f6b1dd0eabf165863559472cb57"
+    }
+  ],
+  "sourceHashes": {
+    "src/ritual-animation.js": "18f9fb2df11902fc2f70d65b42a17b0bd5061f1d6f254fca9bbd0a01b8d46deb",
+    "src/building-art.js": "ce665b424f76514aa8980a33acb4c1a6310f1e839290827266e1ca838c5afab1",
+    "assets/enemies/boss-action-v1.png": "a960d9aea98accb75e06ece0368b6d8aea3ef348efc4b693a656c744a3353f0f",
+    "assets/enemies/ritual-action-v1.png": "347dbbb6d85c101e2fa2be9364b5ebb7609c011a185b0630ceda01fc2942bc75",
+    "assets/buildings/theme-buildings-atlas-v1.png": "77e1c02ba4c67422f2968495a6b0d221df9b9cf78272d1e919d2047daff8cf71"
+  }
+}

@@ -1,0 +1,35 @@
+/* Diagnostic Web host only; native safe areas remain a separate acceptance item. */
+html,
+body {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  overflow: hidden;
+  background: #0f1613;
+  color: #e1e4cf;
+}
+.header,
+.footer {
+  display: none;
+}
+#GameDiv {
+  width: 100vw !important;
+  height: 100vh !important;
+  height: 100dvh !important;
+  margin: 0;
+  position: relative;
+}
+#Cocos3dGameContainer,
+#GameCanvas {
+  width: 100%;
+  height: 100%;
+  touch-action: none;
+}
+canvas {
+  display: block;
+  outline: none;
+}
+canvas:focus-visible {
+  outline: 1px solid #9aae7b;
+  outline-offset: -2px;
+}

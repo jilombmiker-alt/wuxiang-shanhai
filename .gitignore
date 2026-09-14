@@ -1,0 +1,12 @@
+.DS_Store
+node_modules/
+library/
+temp/
+build/
+native/
+*.keystore
+*.jks
+*.p12
+*.pem
+.env
+.env.*
